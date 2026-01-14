@@ -4,14 +4,17 @@ A meticulously maintained build focused on reliability and performance. This bik
 
 ## Quick Specs
 * **Frame:** Steadfast (Size: 20.75)
+![Frame Detail](images/tighterfullshot.jpg)
 * **Condition:** Excellent / Well-maintained
 * **Location:** Flower Mound, TX (North Texas Area)
 
 ## Detailed Build & Parts
-* **Drivetrain:** Black/Chrome on black; One Chrome Premium Cranks, Black Shadow Chain
+* **Drivetrain:** Black/Chrome on black; One Chrome Premium Cranks, Black Shadow Chain (images/25tchainring.jpg)
+![Drivetrain Detail](images/25tchainring.jpg)
 * **Bars:** BSD
 * **Forks:** Demolition
 * **Brakes:** Fly Manual rear brake
+![Brake and Chain Detail](images/chainandchainring.jpg)
 * **Tires:** Maxxis/Tioga
 * **Misc Parts:** Wheels and seat by Stolen; Odyssey headset and pedals.
 
