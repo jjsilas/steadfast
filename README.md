@@ -28,3 +28,5 @@ If you are interested or have specific questions, please reach out via:
 
 ---
 *Note: This repository serves as the official documentation and high-resolution image gallery for this sale.*# steadfast
+### Scan to share this listing:
+![Sales QR Code](sales-qr-code.png)
