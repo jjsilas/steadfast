@@ -9,7 +9,7 @@ A meticulously maintained build focused on reliability and performance. This bik
 * **Location:** Flower Mound, TX (North Texas Area)
 
 ## Detailed Build & Parts
-* **Drivetrain:** Black/Chrome on black; One Chrome Premium Cranks, Black Shadow Chain (images/25tchainring.jpg)
+* **Drivetrain:** Black/Chrome on black; One Chrome Premium Cranks, Black Shadow Chain
 ![Drivetrain Detail](images/25tchainring.jpg)
 * **Bars:** BSD
 * **Forks:** Demolition
